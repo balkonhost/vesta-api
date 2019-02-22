@@ -98,7 +98,7 @@ class VestaAPI
     {
         $postVars = [
             'user'       => $this->userName,
-            'password'   => $this->key,
+            'hash'   => $this->key,
             'returncode' => $this->returnCode,
             'cmd'        => $cmd,
         ];
