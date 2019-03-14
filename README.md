@@ -22,10 +22,10 @@ Powerful API client hosting VestaCP for Laravel
 
 #### Via Composer
 
-Going your project directory on shell and run this command: 
+Going your project directory on shell and run this command:
 
 ```sh
-$ composer require tabuna/vesta-api
+$ composer require balkonhost/vesta-api
 ```
 
 Publication
@@ -42,10 +42,9 @@ bash /usr/local/vesta/bin/v-generate-api-key
 
 ## Usage
 
-	
+
 Simple usage
 ```php
 use VestaAPI\Facades\Vesta;
 
 $backups = Vesta::server('testVDS')->setUserName('MyUserName')->listUserBackups();
-
