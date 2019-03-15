@@ -39,7 +39,7 @@
                 "VestaAPI\\Providers\\VestaServiceProvider"
             ],
             "aliases": {
-                "Dashboard": "VestaAPI\\Facades\\Vesta"
+                "Vesta": "VestaAPI\\Facades\\Vesta"
             }
         }
     },
