@@ -1,5 +1,5 @@
 {
-    "name": "balkonhost/vesta-api",
+    "name": "kitteam/vesta-api",
     "description": "VestaCP client for Laravel",
     "keywords": [
         "framework",
@@ -15,8 +15,8 @@
     },
     "license": "GPL-3.0",
     "support": {
-        "issues": "https://github.com/balkonhost/vesta-api/issues",
-        "source": "https://github.com/balkonhost/vesta-api"
+        "issues": "https://github.com/kitteam/vesta-api/issues",
+        "source": "https://github.com/kitteam/vesta-api"
     },
     "authors": [
         {
